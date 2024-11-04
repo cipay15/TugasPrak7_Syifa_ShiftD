@@ -37,5 +37,6 @@ Berikut adalah rincian keamanan dan validasi dalam aplikasi:
 ![Deskripsi 1](1.png)
 ![Deskripsi 2](2.png)
 ![Deskripsi 3](3.png)
+![Deskripsi 4](4.png)
 
 
