@@ -34,6 +34,8 @@ Berikut adalah rincian keamanan dan validasi dalam aplikasi:
 - Form Login: Dilengkapi dengan validasi input. Jika pengguna mencoba login tanpa mengisi username atau password, sistem akan menampilkan pesan error "Username atau Password Tidak Boleh Kosong". Validasi ini membantu memastikan bahwa hanya data yang lengkap yang dikirim ke server.
 
 # ScreenShoot 
-![Lampiran 1](1.png)
-![Lampiran 2](2.png)
-![Lampiran 3](3.png)
+![Deskripsi 1](1.png)
+![Deskripsi 2](2.png)
+![Deskripsi 3](3.png)
+
+
